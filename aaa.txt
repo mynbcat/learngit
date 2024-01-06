@@ -1,2 +1,2 @@
 git is a good distribution version control system
-git is a good free software
+git is a good distributed free software under GPL
